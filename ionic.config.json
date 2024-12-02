@@ -1,0 +1,7 @@
+{
+  "name": "store-ionic-react-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

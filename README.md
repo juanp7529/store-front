@@ -4,11 +4,17 @@ Se adjunta el código fuente de la aplicación completa.
 
 Para poder correr el proyecto deben tener Ionic, Node asegurarse de tener estas herramientas instaladas antes de ejecutar.
 
-Para correr el proyecto lo único necesario es ejecutar el comando:
+Para correr el proyecto primero instalar las librerías con el comando:
 
 ```bash
 npm install
 ```
+Luego correr el proyecto con el siguiente comando:
+
+```bash
+ionic serve
+```
+
 
 Patrones de diseño utilizados
 En cuanto a patrones use context api y pues este ya proporciona de por si el patron Singleton que se instancia una vez e iniciando y pues
